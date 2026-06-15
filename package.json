@@ -1,6 +1,9 @@
 {
+  "name": "memory-master-backend",
+  "version": "1.0.0",
   "type": "module",
+  "main": "api/index.js",
   "dependencies": {
-    "mongodb": "^6.0.0"
+    "mongodb": "^6.5.0"
   }
 }
